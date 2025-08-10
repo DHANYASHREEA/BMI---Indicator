@@ -1,13 +1,24 @@
 # 📊 BMI Indicator  
-Easily calculate your Body Mass Index and find out your health category in seconds!
+Easily calculate your Body Mass Index and know your health category in seconds!  
 
+![GitHub last commit](https://img.shields.io/github/last-commit/YOUR-USERNAME/bmi-indicator?color=blue&style=flat-square)  
+![GitHub repo size](https://img.shields.io/github/repo-size/YOUR-USERNAME/bmi-indicator?color=green&style=flat-square)  
+![License](https://img.shields.io/badge/license-MIT-orange?style=flat-square)  
 
-A simple BMI (Body Mass Index) indicator that calculates BMI from weight and height and shows the category (Underweight / Normal / Overweight / Obese).
+---
 
-## Features
-- Calculates BMI using metric units (kg and cm)
-- Shows BMI value and category
-- Easy to run and understand
+## 📌 Features  
+- Calculates BMI using metric units (kg, cm)  
+- Displays BMI value with health category  
+- Beginner-friendly and easy to run  
+- Works on any system with Python installed  
+
+---
+
+## 🛠 Installation  
+1. **Clone this repository**  
+```bash
+git clone https://github.com/YOUR-USERNAME/bmi-indicator.git
 
 ## Requirements
 - Python 3.x (if your project is a Python script)
