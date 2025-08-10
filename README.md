@@ -1,4 +1,6 @@
-# BMI Indicator
+# 📊 BMI Indicator  
+Easily calculate your Body Mass Index and find out your health category in seconds!
+
 
 A simple BMI (Body Mass Index) indicator that calculates BMI from weight and height and shows the category (Underweight / Normal / Overweight / Obese).
 
